@@ -51,6 +51,7 @@ printf("no error detected");
 }
  
 # OUTPUT:
+<img width="1431" height="1022" alt="WhatsApp Image 2026-09-22 at 9 25 54 AM" src="https://github.com/user-attachments/assets/ec6b5b8e-2873-4946-af88-d077a25f4fe5" />
 
 
 # RESULT:
